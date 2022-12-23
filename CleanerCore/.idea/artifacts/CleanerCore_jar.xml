@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CleanerCore:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CleanerCore_jar</output-path>
+    <root id="archive" name="CleanerCore.jar">
+      <element id="module-output" name="CleanerCore" />
+    </root>
+  </artifact>
+</component>
