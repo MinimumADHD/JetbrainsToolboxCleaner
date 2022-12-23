@@ -1,2 +1,12 @@
 
 CleanerCore/out/artifacts/CleanerCore_jar/CleanerCore.exe
+*.db
+*.vsidx
+*.db-shm
+ClearToolbox/.vs/ClearToolbox/FileContentIndex/read.lock
+ClearToolbox/.vs/ClearToolbox/v17/Browse.VC.db-wal
+ClearToolbox/.vs/ClearToolbox/v17/Browse.VC.opendb
+ClearToolbox/ClearToolbox.sln
+ClearToolbox/ClearToolbox/ClearToolbox.vcxproj
+ClearToolbox/ClearToolbox/ClearToolbox.vcxproj.filters
+ClearToolbox/ClearToolbox/ClearToolbox.vcxproj.user
